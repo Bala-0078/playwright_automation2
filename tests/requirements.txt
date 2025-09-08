@@ -1,0 +1,19 @@
+# Playwright automation dependencies
+playwright==1.40.0
+
+# Additional testing and utility dependencies
+pytest==7.4.3
+pytest-playwright==0.4.3
+pytest-html==4.1.1
+allure-pytest==2.13.2
+
+# For better logging and reporting
+coloredlogs==15.0.1
+tabulate==0.9.0
+
+# For data handling if needed
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# For environment configuration
+python-dotenv==1.0.0
